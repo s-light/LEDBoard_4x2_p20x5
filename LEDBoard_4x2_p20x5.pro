@@ -1,4 +1,4 @@
-update=Di 24 Mär 2020 19:20:42 CET
+update=Di 24 Mär 2020 19:42:26 CET
 version=1
 last_client=kicad
 [general]
@@ -26,7 +26,7 @@ version=1
 version=1
 PageLayoutDescrFile=
 LastNetListRead=
-LastSTEPExportPath=export/LEDBoard_4x6_p20x5.step
+LastSTEPExportPath=export/LEDBoard_4x2_p20x5.step
 LastIDFExportPath=
 LastVRMLExportPath=
 LastSpecctraDSNExportPath=
